@@ -36,6 +36,12 @@
 			<array>
 				<string>arm64</string>
 			</array>
+	        <key>postinstall_script</key>
+        <string>#! /bin/bash
+
+[ -d /Applications/Notion.app ] &amp;&amp; chmod -R 775 /Applications/Notion.app
+
+exit 0</string>
 		</dict>
 	</dict>
 	<key>MinimumVersion</key>

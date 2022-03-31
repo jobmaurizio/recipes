@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.crystalllized.download.Signal</string>
+	<string>com.pickorchard.download.Signal</string>
 	<key>Process</key>
 	<array>
 		<dict>

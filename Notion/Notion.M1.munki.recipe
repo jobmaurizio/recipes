@@ -41,7 +41,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.pickorchard.download.Notion</string>
+	<string>com.pickorchard.download.M1.Notion</string>
 	<key>Process</key>
 	<array>
 		<dict>
